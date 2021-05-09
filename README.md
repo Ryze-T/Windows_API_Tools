@@ -5,6 +5,6 @@
 
 用法：AddUser.exe Username Password
 
-## Guest_Active.exe
+## Guest_Activate.exe
 
-用法：Guest_Active.exe Password
+用法：Guest_Activate.exe Password
