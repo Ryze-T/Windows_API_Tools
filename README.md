@@ -3,9 +3,7 @@
 
 ## AddUser.exe 
 
-作用：添加管理员
-
-用法：AddUser.exe Username Password
+作用：添加管理员  用法：AddUser.exe Username Password
 
 ## Guest_Activate.exe
 
