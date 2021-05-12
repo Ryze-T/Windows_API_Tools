@@ -18,3 +18,9 @@
 作用：开启rdp服务
 
 用法： Start_Rdp.exe
+
+## User_Del.exe
+
+作用：删除用户
+
+用法：User_Del.exe Username
