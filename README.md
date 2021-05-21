@@ -39,7 +39,7 @@
 
 ## Get_WinPass.exe
 
-作用：抓取 Windows 密码，需要开启 UseLogonCredential
+作用：抓取 Windows 密码，实现 Mimikatz sekurlsa::wdigest 功能，（Win2008 以上需要开启 UseLogonCredential）
 
 用法：Get_WinPass.exe
 
