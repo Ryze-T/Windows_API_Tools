@@ -1,5 +1,5 @@
 # Windows_API_Tools
-使用 WindowsAPI 写的一些渗透小工具
+（如不免杀，Email）
 
 ## AddUser.exe 
 
