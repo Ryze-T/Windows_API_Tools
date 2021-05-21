@@ -37,3 +37,9 @@
 
 用法：Lsass_Dumpx86.exe
 
+## Get_WinPass.exe
+
+作用：抓取 Windows 密码，需要开启 UseLogonCredential
+
+用法：Get_WinPass.exe
+
